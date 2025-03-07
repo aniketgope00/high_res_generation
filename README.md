@@ -1,4 +1,5 @@
-# GAN Lab Assignment Instructions
+## Motivation behind this Project
+### GAN Lab Assignment Instructions
 ### Objective:
 Compare three GAN loss functions and evaluate their impact on an image dataset (CIFAR-10 / CelebA).
 
@@ -13,3 +14,7 @@ Compare three GAN loss functions and evaluate their impact on an image dataset (
    * Inception Score (IS)
    * Fréchet Inception Distance (FID)
    * Visual Inspection
+
+### MV Lab Assignment Instructions
+### Objective:
+Apply K-Means and Hierarchical clustering on CIFAR-10 Dataset.
